@@ -1,9 +1,5 @@
-### Hi there 👋
+"Hello there 👋" - Obi Wan Kennobi
 
-<!--
-**PedroVPrado/PedroVPrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on completing a Growth Hacking challenge.
 - 🌱 I’m currently learning JavaScript, HTML and CSS skills.
@@ -13,4 +9,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm color blind.
 
 "Everybody is ignorant, only on different subjects." - Will Rogers
--->
