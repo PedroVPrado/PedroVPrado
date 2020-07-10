@@ -1,5 +1,6 @@
-"Hello there 👋" - Obi Wan Kennobi
+"Hello there!" - Obi Wan Kennobi
 
+👋👋👋
 
 - 🔭 I’m currently working on completing a Growth Hacking challenge.
 - 🌱 I’m currently learning JavaScript, HTML and CSS skills.
