@@ -6,3 +6,5 @@
 - ⚡ Fun fact: I'm color blind.
 
 "Everybody is ignorant, only on different subjects." - Will Rogers
+
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroVPrado)](https://github.com/anuraghazra/github-readme-stats)
