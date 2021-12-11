@@ -7,4 +7,4 @@
 
 "Everybody is ignorant, only on different subjects." - Will Rogers
 
-[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroVPrado&hide=contribs,stars,issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroVPrado&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
