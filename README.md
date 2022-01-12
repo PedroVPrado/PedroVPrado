@@ -1,10 +1,17 @@
+<h1>Pedro Valença Prado</h1>
+
+<hr></hr>
+
 👋 Hey you, welcome to my github corner.
 
 - 🌱 I’m currently learning Node and Angular.
 - 👯 I’m looking to work with communicative, collaborative and engaged teams.
 - ⚡ Fun fact: I'm color blind, green can be brown or orange, blue vs pink tones are my nemesis.
-- 🚀 Inspirational quote: "Everybody is ignorant, only on different subjects."
+- 🚀 Inspirational quote: Everybody is ignorant, only on different subjects.
+- 😊 Pronouns: he/him
 - 💬 I'm always up to talk about web development.
+
+<hr></hr>
 
 [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroVPrado&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
