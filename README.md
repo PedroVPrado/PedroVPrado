@@ -1,7 +1,7 @@
 👋 Hey you, welcome to my github corner.
 
 - 🌱 I’m currently learning Node and Angular.
-- 👯 I’m looking to collaborate on social causes as a developer.
+- 👯 I’m looking to work with communicative, collaborative and engaged teams.
 - ⚡ Fun fact: I'm color blind, green can be brown or orange, blue vs pink tones are my nemesis.
 - 🚀 Inspirational quote: "Everybody is ignorant, only on different subjects."
 - 💬 I'm always up to talk about web development.
