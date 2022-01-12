@@ -1,4 +1,4 @@
-👋 Hello you, welcome to my github corner.
+👋 Hey you, welcome to my github corner.
 
 - 🌱 I’m currently learning Node and Angular.
 - 👯 I’m looking to collaborate on social causes as a developer.
