@@ -6,10 +6,10 @@
 
 - 🌱 I’m currently learning Node and Angular.
 - 👯 I’m looking to work with communicative, collaborative and engaged teams.
-- ⚡ Fun fact: I'm color blind, green can be brown or orange, blue vs pink tones are my nemesis.
-- 🚀 Inspirational quote: Everybody is ignorant, only on different subjects.
+- ⚡ Fun fact: I'm color blind, the color green is my nemesis.
+- 🚀 Favorite quote: Everybody is ignorant, only on different subjects.
 - 😊 Pronouns: he/him
-- 💬 I'm always up to talk about web development.
+- 💬 I'm always up to talk about programming in general.
 
 <hr></hr>
 
